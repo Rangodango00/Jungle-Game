@@ -1,0 +1,122 @@
+# Blender 5.0.0 MTL File: 'Jungle Game Whitebox.blend'
+# www.blender.org
+
+newmtl Bridge
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/DB797621/Documents/GitHub/Jungle-Game/Textures/Bridge Texture.png
+
+newmtl Cloth
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/DB797621/Documents/GitHub/Jungle-Game/Textures/Tent Texture.jpg
+
+newmtl Deku_Tree
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/DB797621/Documents/GitHub/Jungle-Game/Textures/Deku Tree Texture UPDATED.png
+
+newmtl Environment.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/DB797621/Documents/GitHub/Jungle-Game/Textures/Enviornment 2.png
+
+newmtl Grey
+Ns 21.805946
+Ka 1.000000 1.000000 1.000000
+Kd 0.127605 0.127605 0.127605
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Jungle_Tree
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/DB797621/Documents/GitHub/Jungle-Game/Textures/Jungle Tree Texture.png
+
+newmtl Material
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/DB797621/Documents/GitHub/Jungle-Game/Textures/Temp Materials/Bug.png
+
+newmtl Material.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/DB797621/Documents/GitHub/Jungle-Game/Textures/Jungle temple.jpg
+
+newmtl Palm_Tree_Texture
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/DB797621/Documents/GitHub/Jungle-Game/Textures/Palm Tree Texture.png
+
+newmtl Tent
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/DB797621/Documents/GitHub/Jungle-Game/Textures/Temp Materials/Tent_materials.png
+
+newmtl water
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/DB797621/Documents/GitHub/Jungle-Game/Textures/water texture.jpeg
